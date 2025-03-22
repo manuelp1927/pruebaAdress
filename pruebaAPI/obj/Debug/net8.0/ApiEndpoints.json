@@ -1,6 +1,38 @@
 [
   {
     "ContainingType": "pruebaAPI.Controllers.PresupuestoController",
+    "Method": "Editar",
+    "RelativePath": "api/Presupuesto/Editar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "presupuesto",
+        "Type": "pruebaAPI.Models.Presupuesto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "pruebaAPI.Controllers.PresupuestoController",
+    "Method": "Guardar",
+    "RelativePath": "api/Presupuesto/Guardar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "presupuesto",
+        "Type": "pruebaAPI.Models.Presupuesto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "pruebaAPI.Controllers.PresupuestoController",
     "Method": "Lista",
     "RelativePath": "api/Presupuesto/Lista",
     "HttpMethod": "GET",

@@ -40,6 +40,68 @@
         }
       }
     },
+    "/api/Presupuesto/Guardar": {
+      "post": {
+        "tags": [
+          "Presupuesto"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Presupuesto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Presupuesto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Presupuesto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Presupuesto/Editar": {
+      "post": {
+        "tags": [
+          "Presupuesto"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Presupuesto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Presupuesto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Presupuesto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/WeatherForecast": {
       "get": {
         "tags": [
@@ -82,6 +144,48 @@
   },
   "components": {
     "schemas": {
+      "Presupuesto": {
+        "type": "object",
+        "properties": {
+          "presupuestoId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "unidad": {
+            "type": "string",
+            "nullable": true
+          },
+          "tipoBienServicio": {
+            "type": "string",
+            "nullable": true
+          },
+          "cantidad": {
+            "type": "string",
+            "nullable": true
+          },
+          "valorUnitario": {
+            "type": "string",
+            "nullable": true
+          },
+          "valorTotal": {
+            "type": "string",
+            "nullable": true
+          },
+          "fechaAdquision": {
+            "type": "string",
+            "nullable": true
+          },
+          "proveedor": {
+            "type": "string",
+            "nullable": true
+          },
+          "documentacion": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
       "WeatherForecast": {
         "type": "object",
         "properties": {

@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\OneDrive\\Escritorio\\prueba\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3429BF98-1696-4324-A361-0F02765D8774}|pruebaAPI\\pruebaAPI.csproj|c:\\users\\user\\onedrive\\escritorio\\prueba\\pruebaapi\\pruebaapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3429BF98-1696-4324-A361-0F02765D8774}|pruebaAPI\\pruebaAPI.csproj|solutionrelative:pruebaapi\\pruebaapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3429BF98-1696-4324-A361-0F02765D8774}|pruebaAPI\\pruebaAPI.csproj|c:\\users\\user\\onedrive\\escritorio\\prueba\\pruebaapi\\controllers\\presupuestocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3429BF98-1696-4324-A361-0F02765D8774}|pruebaAPI\\pruebaAPI.csproj|solutionrelative:pruebaapi\\controllers\\presupuestocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3429BF98-1696-4324-A361-0F02765D8774}|pruebaAPI\\pruebaAPI.csproj|c:\\users\\user\\onedrive\\escritorio\\prueba\\pruebaapi\\pruebaapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3429BF98-1696-4324-A361-0F02765D8774}|pruebaAPI\\pruebaAPI.csproj|solutionrelative:pruebaapi\\pruebaapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{53470E03-47CB-4094-A528-F959AE18BAB7}|prueba\\prueba.csproj|c:\\users\\user\\onedrive\\escritorio\\prueba\\prueba\\views\\presupuestoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53470E03-47CB-4094-A528-F959AE18BAB7}|prueba\\prueba.csproj|solutionrelative:prueba\\views\\presupuestoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53470E03-47CB-4094-A528-F959AE18BAB7}|prueba\\prueba.csproj|c:\\users\\user\\onedrive\\escritorio\\prueba\\prueba\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53470E03-47CB-4094-A528-F959AE18BAB7}|prueba\\prueba.csproj|solutionrelative:prueba\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3429BF98-1696-4324-A361-0F02765D8774}|pruebaAPI\\pruebaAPI.csproj|c:\\users\\user\\onedrive\\escritorio\\prueba\\pruebaapi\\models\\presupuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3429BF98-1696-4324-A361-0F02765D8774}|pruebaAPI\\pruebaAPI.csproj|c:\\users\\user\\onedrive\\escritorio\\prueba\\pruebaapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3429BF98-1696-4324-A361-0F02765D8774}|pruebaAPI\\pruebaAPI.csproj|solutionrelative:pruebaapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53470E03-47CB-4094-A528-F959AE18BAB7}|prueba\\prueba.csproj|c:\\users\\user\\onedrive\\escritorio\\prueba\\prueba\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{53470E03-47CB-4094-A528-F959AE18BAB7}|prueba\\prueba.csproj|solutionrelative:prueba\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{53470E03-47CB-4094-A528-F959AE18BAB7}|prueba\\prueba.csproj|c:\\users\\user\\onedrive\\escritorio\\prueba\\prueba\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -66,24 +70,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "PresupuestoController.cs",
               "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\prueba\\pruebaAPI\\Controllers\\PresupuestoController.cs",
               "RelativeDocumentMoniker": "pruebaAPI\\Controllers\\PresupuestoController.cs",
-              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\prueba\\pruebaAPI\\Controllers\\PresupuestoController.cs*",
-              "RelativeToolTip": "pruebaAPI\\Controllers\\PresupuestoController.cs*",
-              "ViewState": "AgIAACgAAAAAAAAAAAAowDUAAAARAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\prueba\\pruebaAPI\\Controllers\\PresupuestoController.cs",
+              "RelativeToolTip": "pruebaAPI\\Controllers\\PresupuestoController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAgwFAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-21T04:37:15.33Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Presupuesto.cs",
               "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\prueba\\pruebaAPI\\Models\\Presupuesto.cs",
               "RelativeDocumentMoniker": "pruebaAPI\\Models\\Presupuesto.cs",
@@ -95,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\prueba\\pruebaAPI\\Program.cs",
               "RelativeDocumentMoniker": "pruebaAPI\\Program.cs",
@@ -107,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\prueba\\pruebaAPI\\appsettings.json",
               "RelativeDocumentMoniker": "pruebaAPI\\appsettings.json",
@@ -119,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "PruebaContext.cs",
               "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\prueba\\pruebaAPI\\Models\\PruebaContext.cs",
               "RelativeDocumentMoniker": "pruebaAPI\\Models\\PruebaContext.cs",
@@ -131,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "pruebaAPI.csproj",
               "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\prueba\\pruebaAPI\\pruebaAPI.csproj",
               "RelativeDocumentMoniker": "pruebaAPI\\pruebaAPI.csproj",
@@ -144,7 +148,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\prueba\\prueba\\Views\\Presupuestoes\\Index.cshtml",
+              "RelativeDocumentMoniker": "prueba\\Views\\Presupuestoes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\prueba\\prueba\\Views\\Presupuestoes\\Index.cshtml",
+              "RelativeToolTip": "prueba\\Views\\Presupuestoes\\Index.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T03:37:31.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\prueba\\prueba\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "prueba\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\prueba\\prueba\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "prueba\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T03:44:41.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\prueba\\pruebaAPI\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "pruebaAPI\\Controllers\\WeatherForecastController.cs",
@@ -156,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Presupuesto.cs",
               "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\prueba\\prueba\\Models\\Presupuesto.cs",
               "RelativeDocumentMoniker": "prueba\\Models\\Presupuesto.cs",
@@ -168,19 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\prueba\\prueba\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "prueba\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\prueba\\prueba\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "prueba\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T03:44:41.324Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\prueba\\prueba\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "prueba\\Views\\Shared\\_Layout.cshtml",
@@ -192,7 +210,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "PresupuestoesController.cs",
               "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\prueba\\prueba\\Controllers\\PresupuestoesController.cs",
               "RelativeDocumentMoniker": "prueba\\Controllers\\PresupuestoesController.cs",
@@ -204,7 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\prueba\\prueba\\Program.cs",
               "RelativeDocumentMoniker": "prueba\\Program.cs",
@@ -216,7 +234,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\prueba\\prueba\\appsettings.json",
               "RelativeDocumentMoniker": "prueba\\appsettings.json",
@@ -228,7 +246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "PruebaContext.cs",
               "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\prueba\\prueba\\Models\\PruebaContext.cs",
               "RelativeDocumentMoniker": "prueba\\Models\\PruebaContext.cs",
