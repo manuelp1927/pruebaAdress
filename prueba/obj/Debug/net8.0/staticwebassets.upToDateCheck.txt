@@ -1,3 +1,4 @@
+wwwroot\Captura de pantalla 2025-03-20 085310.jpg
 wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\js\site.js

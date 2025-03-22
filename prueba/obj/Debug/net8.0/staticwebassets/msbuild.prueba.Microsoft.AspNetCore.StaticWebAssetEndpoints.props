@@ -1,5 +1,17 @@
 ﻿<Project>
   <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/prueba/Captura de pantalla 2025-03-20 085310.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Captura de pantalla 2025-03-20 085310.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-19fsQY7dqJoIig67Psrjl6icswMrZhWioYSv4dIpUkw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"11953"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002219fsQY7dqJoIig67Psrjl6icswMrZhWioYSv4dIpUkw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 20 Mar 2025 13:53:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/prueba/Captura de pantalla 2025-03-20 085310.nchkv94ng8.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Captura de pantalla 2025-03-20 085310.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"nchkv94ng8"},{"Name":"integrity","Value":"sha256-19fsQY7dqJoIig67Psrjl6icswMrZhWioYSv4dIpUkw="},{"Name":"label","Value":"_content/prueba/Captura de pantalla 2025-03-20 085310.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"11953"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002219fsQY7dqJoIig67Psrjl6icswMrZhWioYSv4dIpUkw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 20 Mar 2025 13:53:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/prueba/css/site.c2tiyv64ts.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
